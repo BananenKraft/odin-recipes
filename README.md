@@ -1,2 +1,2 @@
 # odin-recipes
-A simple recipe website 
+A simple recipe website for practicing basic html
